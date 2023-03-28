@@ -1,0 +1,59 @@
+#light{
+    background-color: #6c1491 !important;
+}
+.nav-link{
+    color: white !important;
+}
+.sp1{
+    color: hsl(44, 98%, 51%);
+}
+.btn{
+    background-color: hsl(44, 98%, 51%) ;
+    border: none;
+    color: beige;
+
+}
+li {
+    list-style-type: none;
+}
+.table{
+    margin: auto;
+    background-color: rgb(43, 6, 48);
+    width: 800px;
+    height: auto;
+    
+}
+.btyn{
+    color: red;
+}
+#tot{
+background-color: rgb(43, 6, 48);
+color:white ;
+margin: 20px;
+width: 1200px;
+}
+.fa-red{
+    color: red;
+    font-size: 30px;
+}
+.ddd{
+    /* background-color: aqua; */
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+    margin: 20px;
+   
+   
+}
+.dd2{
+     /* background-color: blue; */
+     width: 15%;
+     padding: 20px;
+}
+.d1{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+}
